@@ -17,7 +17,6 @@ class Driver(Person):
         print(f"Age: {self.age}")
         print(f"License Number: {self.license_number}")
 
-
 driver = Driver("Alex", 25, "AB123456")
 
 driver.show_info()

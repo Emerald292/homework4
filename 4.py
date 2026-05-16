@@ -18,7 +18,6 @@ class Laptop(Device):
 class TV(Device):
     pass
 
-
 phone = Phone()
 laptop = Laptop()
 tv = TV()

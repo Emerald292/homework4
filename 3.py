@@ -17,7 +17,6 @@ class Plane(Vehicle):
 class Bicycle(Vehicle):
     pass
 
-
 car = Car(120)
 plane = Plane(900)
 bicycle = Bicycle(25)
